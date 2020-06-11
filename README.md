@@ -2,7 +2,7 @@
 
 Basic UI to enable users to install apps to their DAO in a more accesible way.
 
-:warning: Further implemenation has been continued in https://github.com/1Hive/app-installer
+:warning: **Further implemenation has been continued in https://github.com/1Hive/app-installer**
 
 **Currently available apps:** [Redemptions](https://github.com/1Hive/redemptions-app), [Token Request](https://github.com/1Hive/token-request-app)
 
